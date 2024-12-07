@@ -30,9 +30,9 @@ body {
 }
 
 .logo {
-    font-size: 24px;
+    font-size: 40px;
     font-weight: bold;
-    color: #e91e63;
+    color: #b45876;
     text-shadow: 0 0 8px #e91e63;
     transition: all 0.3s;
 }
@@ -89,9 +89,9 @@ body {
 }
 
 .home-content h3 {
-    font-size: 32px;
-    color: #555;
-    margin-bottom: 10px;
+    font-size: 38px;
+    color: #c49ac3;
+    margin-bottom: 14px;
 }
 
 .home-content h1 {
@@ -213,6 +213,7 @@ body {
     width: 48%;
     padding: 15px;
     font-size: 16px;
+    background-color: #fde4e1;
     border: 1px solid #e91e63;
     border-radius: 8px;
     margin-bottom: 10px;
@@ -226,14 +227,14 @@ body {
 
 .contact-form form .btn-1 {
     margin-top: 20px;
-    background: #e91e63;
+    background: #a798c4;
     color: #fff;
     border-radius: 20px;
 }
 
 /* Footer */
 .footer {
-    background: #333;
+    background: #897373;
     color: #fff;
     padding: 40px 10%;
     text-align: center;
@@ -246,14 +247,14 @@ body {
 
 .footer .social a {
     margin: 0 15px;
-    color: #e91e63;
+    color: #f49c6d;
     font-size: 30px;
     transition: transform 0.3s, color 0.3s, filter 0.3s; /* Smooth transition */
 }
 
 .footer .social a:hover {
     transform: scale(1.2); /* Increases size of icons on hover */
-    color: #fff; /* Changes color to white */
+    color: #fafafa; /* Changes color to white */
     filter: drop-shadow(0 0 8px #e91e63); /* Adds glowing effect */
 }
 
@@ -290,21 +291,21 @@ body {
 }
 
 .footer ul li a {
-    color: #fff;
+    color: #b9e1b5;
     font-size: 18px;
     font-weight: bold;
     transition: color 0.3s, transform 0.3s;
 }
 
 .footer ul li a:hover {
-    color: #e91e63;
+    color: #c7b0ce;
     transform: translateY(-5px); /* Adds subtle lift effect */
 }
 
 .footer p {
     margin-top: 20px;
-    font-size: 14px;
-    color: #ccc;
+    font-size: 18px;
+    color: #e2c2f8;
 }
 
 
